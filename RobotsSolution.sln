@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RobotsModel", "RobotsModel\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RobotsController", "RobotsController\RobotsController.vcxproj", "{94F63EC7-A77E-477D-B399-9CA23B406280}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RobotsGUIview", "RobotsGUIview\RobotsGUIview.vcxproj", "{0B2306C3-D33A-438E-B9D9-05144D755797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -41,6 +43,18 @@ Global
 		{94F63EC7-A77E-477D-B399-9CA23B406280}.Release|x64.Build.0 = Release|x64
 		{94F63EC7-A77E-477D-B399-9CA23B406280}.Release|x86.ActiveCfg = Release|Win32
 		{94F63EC7-A77E-477D-B399-9CA23B406280}.Release|x86.Build.0 = Release|Win32
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Debug|ARM64.ActiveCfg = Debug|x64
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Debug|ARM64.Build.0 = Debug|x64
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Debug|x64.ActiveCfg = Debug|x64
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Debug|x64.Build.0 = Debug|x64
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Debug|x86.Build.0 = Debug|Win32
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Release|ARM64.ActiveCfg = Release|x64
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Release|ARM64.Build.0 = Release|x64
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Release|x64.ActiveCfg = Release|x64
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Release|x64.Build.0 = Release|x64
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Release|x86.ActiveCfg = Release|Win32
+		{0B2306C3-D33A-438E-B9D9-05144D755797}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
